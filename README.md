@@ -1,7 +1,8 @@
 
+
 # MegaMillionGenerator
 
-This program generates random draws for the Mega Millions lottery game.
+Scared of the official random generator being rigged? How about this open-sourced generator so you can do-it-yourself! This program generates random draws for the Mega Millions lottery game.
 
 ## Terminal Usage
 
